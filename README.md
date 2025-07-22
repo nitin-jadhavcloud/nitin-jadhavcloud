@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **nitin-jadhavcloud/nitin-jadhavcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 AWS | Terraform | DevOps Projects Portfolio
