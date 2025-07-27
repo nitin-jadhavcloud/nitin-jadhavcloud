@@ -25,3 +25,10 @@ Hands-on projects to showcase my cloud infrastructure and DevOps skills using AW
 ### 🌐 3. Terraform AWS Infra – VPC, EC2, RDS, S3  
 **Tech Used:** Terraform, Modules, Variables, EC2, S3, MySQL  
 📂 [GitHub Repo](https://github.com/nitin-jadhavcloud/terraform-iac-vpc-ec2-web-db-s3)
+
+
+### 👁‍🗨 4. AWS IAM: User Access Management & Least Privilege
+**Tech Used** : IAM Users, Groups, Custom Policies, S3, EC2
+Simulated real-world IAM setup with groups, users, and custom policies for S3 and EC2 access. Enforced Principle of Least Privilege and demonstrated support-level troubleshooting for permission issues.
+📂  [GitHub Repo](https://github.com/nitin-jadhavcloud/aws-iam-user-access-management.git)
+
